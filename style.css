@@ -1,0 +1,16 @@
+.Zapros1, .Zapros2, .Zapros3
+{
+    width: 900px;
+    /* Определим контур формы */
+    padding: 5em;
+    padding-top: 3em;
+    border: 3px solid rgb(37, 0, 44);
+    border-radius: 5em;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+* {
+    background: rgb(129, 129, 222);
+
+}
